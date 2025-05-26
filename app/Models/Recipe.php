@@ -13,4 +13,5 @@ class Recipe extends Model
         'quantity',
         'instructions'
     ];
+
 }
